@@ -5,3 +5,4 @@ A showcase of interactive embeddings created by Nova
 - [Vector fields](/nova-embeds/vector-field)
 - [Generative UI](/nova-embeds/gen-ui)
 - [Latex](/nova-embeds/latex)
+- [Bits](/nova-embeds/bits)
