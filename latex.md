@@ -4,7 +4,7 @@
 <style>
   #tinyvolt-6ab1bd98-90f5-4586-a999-48b8b18414c1 { width: 322px; height: 351px; }
 </style>
-<tinyvolt-article id="tinyvolt-6ab1bd98-90f5-4586-a999-48b8b18414c1" article="6ab1bd98-90f5-4586-a999-48b8b18414c1" site="YOUR_SITE"></tinyvolt-article>
+<tinyvolt-article id="tinyvolt-6ab1bd98-90f5-4586-a999-48b8b18414c1" article="6ab1bd98-90f5-4586-a999-48b8b18414c1" site="https://tinyvolt.github.io"></tinyvolt-article>
 
 ---
 
