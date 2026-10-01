@@ -6,3 +6,14 @@ A showcase of interactive embeddings created by Nova
 - [Generative UI](/nova-embeds/gen-ui)
 - [Latex](/nova-embeds/latex)
 - [Bits](/nova-embeds/bits)
+
+To do:
+- [ ] Optimization
+- [ ] ODEs
+- [ ] SDEs
+- [ ] Complex numbers
+- [ ] FFT and IFFT
+- [ ] Flash cards
+- [ ] Flowcharts
+- [ ] Timelines
+- [ ] Hierarchy
