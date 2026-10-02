@@ -6,6 +6,7 @@ A showcase of interactive embeddings created by Nova
 - [Generative UI](/nova-embeds/gen-ui)
 - [Latex](/nova-embeds/latex)
 - [Bits](/nova-embeds/bits)
+- [Python](/nova-embeds/python)
 
 To do:
 - [ ] Optimization
