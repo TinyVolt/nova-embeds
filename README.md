@@ -10,9 +10,9 @@ A showcase of interactive embeddings created by Nova
     - [Vector fields](/nova-embeds/vector-field)
 - [ODEs](/nova-embeds/ode)
 - [FFT](/nova-embeds/fft)
+- [Optimization](/nova-embeds/optimization)
 
 To do:
-- [ ] Optimization
 - [ ] SDEs
 - [ ] Complex numbers
 - [ ] Flash cards
