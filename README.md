@@ -9,12 +9,12 @@ A showcase of interactive embeddings created by Nova
 - [Python](/nova-embeds/python)
 - [Autodiff](/nova-embeds/autodiff)
 - [ODEs](/nova-embeds/ode)
+- [FFT](/nova-embeds/fft)
 
 To do:
 - [ ] Optimization
 - [ ] SDEs
 - [ ] Complex numbers
-- [ ] FFT and IFFT
 - [ ] Flash cards
 - [ ] Flowcharts
 - [ ] Timelines
