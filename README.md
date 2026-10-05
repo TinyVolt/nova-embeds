@@ -8,10 +8,10 @@ A showcase of interactive embeddings created by Nova
 - [Bits](/nova-embeds/bits)
 - [Python](/nova-embeds/python)
 - [Autodiff](/nova-embeds/autodiff)
+- [ODEs](/nova-embeds/ode)
 
 To do:
 - [ ] Optimization
-- [ ] ODEs
 - [ ] SDEs
 - [ ] Complex numbers
 - [ ] FFT and IFFT
