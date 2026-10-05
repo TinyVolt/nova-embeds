@@ -7,6 +7,7 @@ A showcase of interactive embeddings created by Nova
 - [Latex](/nova-embeds/latex)
 - [Bits](/nova-embeds/bits)
 - [Python](/nova-embeds/python)
+- [Autodiff](/nova-embeds/autodiff)
 
 To do:
 - [ ] Optimization
